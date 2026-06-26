@@ -1,0 +1,15 @@
+Scenario: insurance
+Goal: Check if the office accepts Blue Cross Blue Shield insurance
+Time: 20260625_231900
+==================================================
+Patient: Hi, I wanted to check if you accept Blue Cross Blue Shield insurance.
+Agent: call may be recorded for quality and training purposes, but  thank you for calling Pivot Point Orthopedics. Would you like to create a demo patient profile? I just need your first and last name to get started.
+Patient: Sarah Miller
+Agent: Your patient profile is set up and your date of birth is July. 4th 2004 demo purposes. How may I help you today?
+Patient: Correct.
+Agent: Great Sarah. What can I help you with today? Are you looking to schedule an appointment asked about medications or something else?
+Patient: I wanted to check if you accept Blue Cross Blue Shield insurance.
+Agent: Yes, Pivot Point Orthopedics, accepts most insurance plans including Blue Cross Blue Shield. Would you like to update your insurance information or have any other questions about coverage?
+Patient: No, I don't need to update my insurance. Thank you for your help!
+Agent: You're welcome, Sarah, if you need anything else, just call us have a great day.
+Patient: Thank you, goodbye!

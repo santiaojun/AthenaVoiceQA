@@ -1,0 +1,25 @@
+Scenario: refill
+Goal: Get a refill on a prescription for lisinopril
+Time: 20260625_231559
+==================================================
+Patient: Hi, I need to get a refill on my prescription for lisinopril.
+Agent: call may be recorded for quality and training purposes, but  thank you for calling Pivot Point Orthopedics. Would you like to create a demo patient profile? I just need your first and last name to get started.
+Patient: My name is Sarah Miller.
+Agent: Your patient profile is set up and your date of birth is July. 4th 2004 demo purposes. How may I help you today?
+Patient: That's correct.
+Agent: Great. Well, can I assist you with today? Are you looking to schedule an appointment? Ask about medications or something else?
+Patient: I need a refill on my lisinopril prescription.
+Agent: How many days of licina pro? Do you have left? If you are already out just let me know.
+Patient: I have about three days left. Can you help with the refill?
+Agent: Do you have left?
+Patient: July 4th, 1985
+Agent: Could you tell me how many days of listen, you have left?  If you're not sure, just give your best estimate.
+Patient: Sarah Miller
+Agent: Thanks Sarah about how many gays of life in a pearl. Do you have left? If you're already out, just let me know.
+Patient: I’m not sure, but I think I have about a week left.
+Agent: No problem. I'll note that you have about 7 days left. What is the best phone number for staff to call you back? I have a number of 737 38720003.  Is that correct?
+Patient: My number is 555-234-5678.
+Agent: I have your number as 5552345678. Is that correct?
+Patient: Yes, that's correct. Can you help me with my lisinopril refill?
+Agent: Is there anything else you'd like the staff to know about your refill request, for example, any symptoms or urgency or special instructions?
+Patient: No, that's all. Thank you so much. Goodbye!

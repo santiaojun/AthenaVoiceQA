@@ -1,0 +1,41 @@
+Scenario: refill
+Goal: Get a refill on a prescription for lisinopril
+Time: 20260626_195216
+==================================================
+Patient: Hi, I need to get a refill on my prescription for lisinopril.
+Agent: be recorded for quality and training purposes, but  thank you for calling Pivot Point Orthopedics. Would you like to create a demo patient profile? I just need your first and last name to get started.
+Patient: It's Sarah Miller.
+Agent: Your patient profile is set up in your date of birth is July. 4th 2000 for demo purposes. How may I help you today?
+Patient: Yes.
+Agent: What can I assist you with today? Are you looking to schedule an appointment request, a medication refill, update your insurance or something else.
+Patient: It's Blue Cross Blue Shield PPO.
+Agent: There is no insurance currently on file for you. Would you like to receive a text message on a number ending in 20003 to upload photos of your Blue Cross Blue Shield PPO insurance card?
+Patient: That's right.
+Agent: I just sent the link please. Upload clear photos of the front and back of your insurance card when you're ready. Let me know if you have any questions about the form.
+Patient: Thank you! I'll upload the photos shortly.
+Agent: You're welcome, take your time with the upload. Let me know if you need help with any part of the Forum.
+Patient: I need a refill on my lisinopril prescription.
+Agent: No problem. I'll collect your insurance details. Now, what is your member ID number as shown on your Blue Cross Blue Shield, PPO card
+Patient: It's Blue Cross Blue Shield PPO.
+Agent: Could you please provide the member ID number from your Blue Cross Blue Shield PPO card?
+Patient: It's BCB123456789.
+Agent: Is there a group number listed on your card? Or should I skip that part?
+Patient: The group number is GRP001234.
+Agent: Which state is your Blue Cross Blue Shield PPO plan issued in.
+Patient: California
+Agent: What is the effective date listed on your insurance card?
+Patient: Blue Cross Blue Shield.
+Agent: Could you tell me the effective date shown on your insurance card? It's usually listed as the start date of your coverage.
+Patient: I don't have that information right now. Can I get a refill on lisinopril?
+Agent: please provide the  No problem. Is there a claims mailing address or PO Box listed on the back of your card? Or should I skip that part?
+Patient: 123 Main Street, Los Angeles, California
+Agent: Is there a phone number printed on your insurance card? Or should I skip that part?
+Patient: My number is 555-234-5678.
+Agent: Full.  There are several Blue Cross Blue Shield PPL plans for California, here are a few options, Blue, Shield of California, PPO Blue, Cross of California, UniCare, PPO Blue. Cross of California Kenan. PPO Blue Cross of California personify, Health PPO  Do you know which 1 notches your card or would you like me to read more options?
+Patient: I have Blue Cross Blue Shield PPO.
+Agent: There are several Blue Cross Blue Shield. PPO plans in California, does your card mention any of these names? Blue Shield of California? PPO Blue, Cross of California, UniCare, PPO Blue Cross of California, Keenan. PPO Blue. Cross of California personify Health PPO, if you see 1 of these on your card, let me know which matches, if not, I can list more options.
+Patient: I have Blue Cross Blue Shield PPO, member ID BCB123456789.
+Agent: There are.  Thanks for clarifying. Does your card say? Blue Cross of California or Blue Shield of California? This will help me pick the right plan.
+Patient: My card says Blue Cross of California.
+Agent: Great, thank you. Does your card mention any of these options? Do you care? Keep in personify, health Sheet, Metal Workers Teamsters. Local Union, United administrative services, or does it just say Blue Cross of California? PPO without any extra group.
+Patient: Thank you, goodbye!

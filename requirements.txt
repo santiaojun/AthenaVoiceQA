@@ -1,0 +1,5 @@
+twilio
+flask
+google-generativeai
+python-dotenv
+ngrok

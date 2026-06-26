@@ -1,0 +1,13 @@
+Scenario: hours
+Goal: Find out the office hours
+Time: 20260625_233246
+==================================================
+Patient: Hi, I was wondering what your office hours are?
+Agent: Call may be recorded for quality and training purposes.  Thank you for calling Pivot Point Orthopedics. Would you like to create a demo patient profile? I just need your first and last name to get started.
+Patient: It's Sarah Miller.
+Agent: Your patient profile is set up and your date of birth is July. 4th 2000 for demo purposes. How may I help you today?
+Patient: That's correct.
+Agent: Great. What can I help you with today?
+Patient: I was wondering what your office hours are.
+Agent: our clinic is open Monday Tuesday and Thursday from 9:00 a.m. to 4:00 p.m. Wednesday from 12:00 p.m. to 7:00 p.m. and Friday from 9:00 a.m. to 12:00 p.m.  Is there anything else you'd like to know?
+Patient: No, that's all. Thank you so much. Goodbye!

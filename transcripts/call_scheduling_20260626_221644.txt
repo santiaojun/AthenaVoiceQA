@@ -1,0 +1,15 @@
+Scenario: scheduling
+Goal: Schedule an appointment for next Monday at 2pm
+Time: 20260626_221644
+==================================================
+Patient: Hi, I'd like to schedule an appointment for next Monday at 2pm.
+Agent: quality and training purposes, but  thank you for calling Pivot Point Orthopedics. Would you like to create a demo patient profile? I just need your first and last name to get started.
+Patient: Sarah Miller
+Agent: Your patient profile is set up and your date of birth is July. 4th 2000 for demo purposes. How may I help you today?
+Patient: That's right.
+Agent: Great. Well, can I help you with today? Are you looking to schedule an appointment, ask about medications or something else?
+Patient: I'd like to book an appointment for next Monday at 2pm please.
+Agent: Sure, can you tell me the reason for your visit? For example, is this for a routine checkup, a new patient consultation, a follow-up or something else.
+Patient: It's for a routine checkup.
+Agent: Is this appointment?
+Patient: Yes, please confirm the appointment for next Monday at 2pm.

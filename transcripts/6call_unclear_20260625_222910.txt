@@ -1,0 +1,35 @@
+Scenario: unclear
+Goal: You're not feeling well and unsure if you need an appointment
+Time: 20260625_222910
+==================================================
+Patient: Hi, um, I'm not feeling well and I'm not sure if I need an appointment or what.
+Agent: call may be recorded for quality and training purposes, but  thank you for calling Pivot Point Orthopedics. Would you like to create a demo patient profile? I just need your first and last name to get started.
+Patient: My name is Sarah Miller.
+Agent: Your patient profile is set up and your date of birth is July. 4th 2000 for demo purposes. How may I help you today?
+Patient: Correct.
+Agent: Thanks Sarah. How can I help you today?
+Patient: I'm not feeling well and I'm not sure what I need.
+Agent: I understand you're not feeling well would you like to speak with a provider schedule? An appointment or describe your symptoms? So I can help guide you
+Patient: I’d like to describe my symptoms first, please.
+Agent: Go ahead and tell me about your symptoms. I'm yet to listen.
+Patient: My name is Sarah Miller.
+Agent: I have your name is Sarah Miller. Please go ahead and describe your symptoms.
+Patient: I've been feeling fatigued, have a sore throat, and a mild headache.
+Agent: Thank you for sharing that. How well have you been experiencing these symptoms?
+Patient: I've been feeling this way for about three days now.
+Agent: Have you had any fever trouble breathing or other symptoms besides fatigue, sore throat and headache?
+Patient: No fever or trouble breathing, just the fatigue, sore throat, and headache.
+Agent: Thanks for clarifying. Would you like to schedule an appointment to see a provider or do you want advice on what to do next?
+Patient: I’d like advice on what to do next, please.
+Agent: I can't give medical advice, but I recommend scheduling an appointment with 1 of our providers to get checked out. Would you like to book a visit
+Patient: I understand. Would you like me to help you schedule an appointment?
+Agent: Yes, I can help you schedule an appointment. Would you like to book the next available slot or do you have a preferred day or time?
+Patient: I’d prefer to book the next available slot, please.
+Agent: An appointment, would you like to book the next available slot or do you have a preferred day or time?
+Patient: Yes, please schedule the next available appointment for me.
+Agent: It looks like you already have an appointment booked for these symptoms.  If you like I can help you reschedule or cancel it or I can connect you with Live support for further help. What would you like to do?
+Patient: I’d like to connect with Live support for further assistance, please.
+Agent: I can connect you to our patient support team for more help with your symptoms and appointment options. Would you like to continue with me or should I transfer you to a live agent?
+Patient: Please transfer me to a live agent for assistance. Thank you!
+Agent: Connecting you to a representative, please wait.  Hello, you've reached the pretty good. AI test line, goodbye.
+Patient: Thank you, goodbye!

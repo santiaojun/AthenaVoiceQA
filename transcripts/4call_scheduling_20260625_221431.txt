@@ -1,0 +1,37 @@
+Scenario: scheduling
+Goal: Schedule an appointment for next Monday at 2pm
+Time: 20260625_221431
+==================================================
+Patient: Hi, I'd like to schedule an appointment for next Monday at 2pm.
+Agent: All may be recorded for quality and training purposes.  Thank you for calling Pivot Point Orthopedics. Would you like to create a demo patient profile? I just need your first and last name to get started.
+Patient: Sarah Miller
+Agent: Your patient profile is set up and your date of birth is July. 4th 2000 for demo purposes. How may I help you today?
+Patient: That's correct.
+Agent: Great. What can I assist you with today?  Are you looking to schedule an appointment request, a medication refill or something else?
+Patient: I'd like to schedule an appointment for next Monday at 2pm, please.
+Agent: Sure, can you tell me to reason for your visit? For example, is this for a routine checkup, a new patient consultation, a follow-up.  Or something else.
+Patient: It's for a routine checkup.
+Agent: Just to confirm you'd like to schedule a general office. Visit for a routine checkup, is that correct?
+Patient: Yes, that's right.
+Agent: We have openings next Monday, June 29th.  With Dr. Zoobug new lucosky, at 3 p.m. and 3:30. P.m. would you like to book the 3pm slot? Or would you prefer a different time or provider?
+Patient: I'd like to schedule the appointment for 2 p.m. instead, please.
+Agent: There isn't a 2 p.m. slot available. Next Monday. The earliest openings are at 3 p.m. and 3:30 p.m. with doctors a big new Lakosky. Would you like to book the 3pm slot or check other days for a 2 p.m. appointment?
+Patient: I'll take the 3 p.m. slot with Dr. Lakosky, please.
+Agent: Your appointment is set for Monday. June 29th, at 3 p.m. with Dr. Zeb big, new lucoski at Pivot Point Orthopedics please bring your photo ID, insurance card, a list of your current medications and any Imaging discs. You have. Would you like a text message with these details?
+Patient: Blue Cross Blue Shield.
+Agent: Would you like to update your insurance information to BlueCross? BlueShield or do you have a specific question about your coverage?
+Patient: I’d like to confirm my insurance is Blue Cross Blue Shield, no questions.
+Agent: Let me check your insurance details and confirm. If Blue Cross Blue Shield is on file.  You don't have any insurance on file right now. Would you like to add Blue Cross Blue Shield as your insurance? I can send you a secure Lake by text to upload your car or we can collect the details over the phone, which do you prefer?
+Patient: It's Blue Cross Blue Shield PPO.
+Agent: You don't have any insurance on file right now. Would you like me to send a text message to your phone ending in 20003 so you can upload photos of your Blue Cross Blue Shield. PPO card.
+Patient: Sure, it's 555-234-5678.
+Agent: I sent a text link to your phone ending in 20003. Please use it to upload photos of the front and back of your Blue Cross Blue Shield PPO card.  Let me know if you have any questions while filling out the form.
+Patient: I’ll upload the photos now. Can I schedule my appointment for next Monday at 2pm?
+Agent: Take your time. Let me know if you need help with any part of the Forum.
+Patient: I'd like to book an appointment for next Monday at 2pm please.
+Agent: Your appointment for next Monday is already set for 3, p.m. with Dr. Z big, new lucosky. There are no 2 pm openings that day. Would you like to keep the 3 p.m. slot or check other days for a 2 p.m. appointment?
+Patient: I'll keep the 3 p.m. slot for next Monday, thank you!
+Agent: You're all set for Monday at 3 p.m. with Dr. Zigman, you lucoski, if you need anything else, just let me know.
+Patient: Thank you! I appreciate your help. See you Monday at 3 p.m.!
+Agent: You're welcome. Have a great day.
+Patient: Thank you, goodbye!

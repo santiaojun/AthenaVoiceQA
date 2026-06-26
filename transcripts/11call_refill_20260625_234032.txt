@@ -1,0 +1,45 @@
+Scenario: refill
+Goal: Get a refill on a prescription for lisinopril
+Time: 20260625_234032
+==================================================
+Patient: Hi, I need to get a refill on my prescription for lisinopril.
+Agent: Call may be recorded for quality and training purposes.  Thank you for calling Pivot Point Orthopedics. Would you like to create a demo patient profile? I just need your first and last name to get started.
+Patient: It's Sarah Miller.
+Agent: Your patient profile is set up and your date of birth is July. 4th 2000 for demo purposes. How may I help you today?
+Patient: That's right.
+Agent: Great. What can I assist you with today? Are you looking to schedule an appointment asked about medications or something else?
+Patient: I need a refill on my lisinopril prescription.
+Agent: Thanks for letting me know how many days of listing a pearl. Do you have left? If you are already out, just let me know.
+Patient: I have a few days left, but I need the refill soon.
+Agent: I understood, can you tell me about how many days you have left? Would you say it's about 3 5 or another number?
+Patient: My number is 555-234-5678.
+Agent: I have your number as 5552345678 is that correct. And just to confirm about how many days of license a pro do you have left?
+Patient: I have about three days left on my lisinopril prescription.
+Agent: Could you please provide the name of the pharmacy you want to use for your medication? If you know, the address City or any details like cross streets or nearby stores? That would help too if you have their phone or fax number, please share that as well.
+Patient: I use CVS on Main Street for my lisinopril prescription.
+Agent: Could you tell me the city and state, or does it code for the CDs on Main Street? That will help make sure your prescription goes to the right location.
+Patient: That's correct.
+Agent: I still need the city and state or the zip code for the CVS on Main Street. Could you share that information?
+Patient: California
+Agent: 8th, could you tell me the city in California? Where the CDs on Main Street is located? That will help me find the exact Pharmacy.
+Patient: It's in Los Angeles, California.
+Agent: There are several CVS locations in Los Angeles, but none are listed specifically on Main Street. Do you know, the Cross Street ZIP code or any nearby landmarks for the CVS? Or do you recognize any of these addresses Woody or Boulevard? Southwest in a good Boulevard? South figeroa Street Southwestern Avenue or Hollywood Boulevard?
+Patient: I'm not sure about the cross streets. Can you help me find the nearest CVS?
+Agent: No problem. Here are a few CVS locations in Los Angeles that might be yours. 56000 Woody or Boulevard 3535, Southwest Sienna Boulevard, 735 South Figueroa, Street 4030 Southwestern Avenue 2110, West, 7th Street do any of these addresses sound familiar or is your CVS near any of these streets?
+Patient: 123 Main Street, California
+Agent: I do not see a CVS listed at 123 Main Street in Los Angeles. Are you sure about the address or could it be a nearby Street if you have a phone number for the pharmacy? Or any other details that could help me find the right location.
+Patient: I can check my pharmacy's phone number for you. It's CVS on Main Street.
+Agent: That would be helpful. Please let me know the phone number when you have it, and I'll match it to the correct CVS location for you.
+Patient: Sure, let me find that for you. I'll call you back shortly.
+Agent: Take your time. Let me know the phone number when you have it and I'll help you confirm your Pharmacy.
+Patient: Thank you! I'll wait for your call with the pharmacy number.
+Agent: You're welcome. Just let me know the phone number when you're ready and I'll help you confirm your Pharmacy.
+Patient: I appreciate your help! I'll call back with the pharmacy number soon.
+Agent: Happy to help. Let me know when you have the phone number and we'll get your Pharmacy confirmed.
+Patient: Sounds good! I'll be here when you're ready.
+Agent: Whatever you're ready, just share the phone number and I'll take care of the rest.
+Patient: 555-234-5678.
+Agent: I do not see a CVS Pharmacy in Los Angeles with the phone. Number 555-234-5678.  Could you double check the number or see if there's another number listed for your Pharmacy? If you find a different number or any other details? Let me know and I'll help you match it.
+Patient: I apologize for the confusion. The pharmacy is CVS on Main Street.
+Agent: No worries at all. Just let me know if you find the correct phone number or any other details about your Pharmacy and I'll help you confirm it.
+Patient: Thank you so much for your help. Goodbye.

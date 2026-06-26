@@ -1,0 +1,33 @@
+Scenario: unclear
+Goal: You're not feeling well and unsure if you need an appointment
+Time: 20260625_220205
+==================================================
+Patient: Hi, um, I'm not feeling well and I'm not sure if I need an appointment or what.
+Agent: call may be recorded for quality and training purposes, but  thank you for calling Pivot Point Orthopedics. Would you like to create a demo patient profile? I just need your first and last name to get started.
+Patient: It's Sarah Miller.
+Agent: Your patient profile is set up and your date of birth is July. 4th 2000 for demo purposes. How may I help you today?
+Patient: Yes.
+Agent: What would you like help with today? You can ask about appointments medications insurance or anything else related to your care.
+Patient: I'm not feeling well and I'm not sure what I need.
+Agent: I'm sorry you're not feeling well, would you like to schedule an appointment to see 1 of our providers, or do you want to talk about your symptoms first?
+Patient: I’d like to discuss my symptoms first, please.
+Agent: Of course, can you tell me a bit about what symptoms you're experiencing?
+Patient: I have a headache, fatigue, and a sore throat. What do you think?
+Agent: I can't get medical advice.
+Patient: It sounds uncomfortable. Have you had these symptoms for long?
+Agent: I don't have access to your medical history but I can help you share this information with a provider. Would you like to book an appointment or have our Clinic support team? Follow up with you?
+Patient: I’d like to book an appointment, please.
+Agent: Based on your symptoms, would you like to book an urgent visit to address your headache fatigue and sore throat?
+Patient: Yes, an urgent visit sounds good. When is the earliest available appointment?
+Agent: Do you have a specific provider? You'd like to see or are you open to the first available?
+Patient: July 4th, 1985
+Agent: Thank you for sharing your date of birth.  Do you have a provider preference?  Or should I look for the first available appointment?
+Patient: I'm open to the first available appointment. Thank you!
+Agent: We have openings this Friday with your primary providers. Would you prefer a morning or afternoon appointment?
+Patient: Afternoon works best for me. Thank you!
+Agent: Here are a few afternoon options for Friday, we have 1 p.m. with Dr. Zipping new lucosky, 1:45 p.m.  with Dr. Ziggy lucosky or 3 p.m. with Dr. Kelly Noble, would any of these work for you?
+Patient: I’ll take the 1:45 p.m. appointment with Dr. Ziggy Lucosky. Thank you!
+Agent: Your appointment is set for Friday, June 26th at 1:45 p.m. with Dr. Zoobug new lucasia, Pivot Point Orthopedics. Please putting your photo ID insurance card, a list of your current medications and any Imaging discs. You have. Is there anything else I can help you with
+Patient: No, that's all. Thank you for your help!
+Agent: You're all set, take care and we look forward to seeing you at your appointment.
+Patient: Thank you, goodbye!

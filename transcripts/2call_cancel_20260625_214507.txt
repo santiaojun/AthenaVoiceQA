@@ -1,0 +1,13 @@
+Scenario: cancel
+Goal: Cancel an appointment scheduled for tomorrow
+Time: 20260625_214507
+==================================================
+Patient: Hi, I need to cancel my appointment that's scheduled for tomorrow.
+Agent: All may be recorded for quality and training purposes.  Thank you for calling Pivot Point Orthopedics. Would you like to create a demo patient profile? I just need your first and last name to get started.
+Patient: My name is Sarah Miller.
+Agent: Your patient profile is set up and your date of birth is July 4th 2000 for demo purposes.  How may I help you today?
+Patient: That's correct.
+Agent: Great. What can I assist you with today? Pretty looking to schedule an appointment, ask about medications or something else.
+Patient: I need to cancel my appointment scheduled for tomorrow.
+Agent: I'm unable to cancel your appointment right now. I'll connect you to our patient support team for help. Please stay on the line.  Connecting you to a representative, please wait.  hello, you  You reached the pretty good. AI test line, goodbye.
+Patient: Thank you, goodbye!

@@ -1,0 +1,21 @@
+Scenario: weekend
+Goal: Ask if you can come in on Sunday at 10am
+Time: 20260625_233116
+==================================================
+Patient: Hi, I was hoping to come in on Sunday around 10am, is that possible?
+Agent: call may be recorded for quality and training purposes, but  thank you for calling Pivot Point Orthopedics. Would you like to create a demo patient profile? I just need your first and last name to get started.
+Patient: Sarah Miller
+Agent: Your patient profile is set up and your date of birth is July. 4th 2000 for demo purposes. How may I help you today?
+Patient: Yes, that's right.
+Agent: Great. What can I help you with today?  Are you looking to schedule an appointment? Ask about medications or something else?
+Patient: I was hoping to come in on Sunday around 10am.
+Agent: The clinic is open Monday through Friday. So we're closed on Sundays. Would you like to come in on a weekday morning instead if you ever preferred day?  Let me know.
+Patient: Oh, I see. Can I come in on Monday at 10am instead?
+Agent: Sure. Before I check availability. Can you tell me the reason for your visit? For example, is this for a routine checkup, a new patient consultation and urging concern or something else.
+Patient: It's for a routine checkup. Thank you!
+Agent: It looks like you already have a routine checkup appointment booked, if you'd like I can help you reschedule or cancel that appointment or I can transfer you to live support for more help. What would you like to do?
+Patient: I'd like to reschedule my appointment for Sunday at 10am, please.
+Agent: The clinic is closed on Sundays so we can't schedule appointments that day. Would you like to reschedule for Monday at 10:00 a.m. or is there another weekday morning that works for you?
+Patient: Monday at 10am works for me. Thank you for your help!
+Agent: let me reschedule your routine checkup for Monday at 10 a.m. 1 moment, while I check availability  I'm unable to reschedule your routine checkup directly, since you already have an appointment of this type. I'll transfer you to live support so they can help you with the rescheduling. Please hold for a moment.
+Patient: No, that's everything. Thank you so much. Goodbye!

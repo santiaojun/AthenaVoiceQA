@@ -1,0 +1,25 @@
+Scenario: scheduling
+Goal: Schedule an appointment for next Monday at 2pm
+Time: 20260625_221831
+==================================================
+Patient: Hi, I'd like to schedule an appointment for next Monday at 2pm.
+Agent: Call may be recorded for quality and training purposes.
+Patient: Yes, that's fine.
+Agent: Thank you for calling pivot.  Would you like to create a demo patient profile? I just need your first and last name to get started.
+Patient: It's Sarah Miller.
+Agent: Your patient profile is set up and your date of birth is July. 4th 2000 for demo purposes. How may I help you today?
+Patient: Yes, that's right.
+Agent: Great. Well good, I assist you with today. Are you looking to schedule an appointment request, a medication refill, or something else?
+Patient: I'd like to schedule an appointment for next Monday at 2pm, please.
+Agent: Sure, can you tell me the reason for your visit? For example, is this for a routine checkup, a follow-up, something urgent, or another reason
+Patient: I'd like to book an appointment for next Monday at 2pm please.
+Agent: I can help with that. Is this appointment for a general office? Visit a follow-up, something urgent or another reason.
+Patient: It's for a general office visit.
+Agent: It looks like you already have a general office. Visit appointment, booked, if you want, I can help you reschedule or cancel, your existing appointment, would you like to do that?
+Patient: No, I’d like to keep my existing appointment and schedule the new one.
+Agent: I'm unable to book another general office visit since you already have 1, scheduled if you need a different type of appointment, I can help with that. Otherwise I can connect you to a team member for further assistance. Would you like to speak with someone from the office?
+Patient: Yes, please connect me with someone from the office for further assistance.
+Agent: It looks like you already have a general office, visit scheduled and booking. An additional 1 isn't allowed. Would you like to speak with a team member for further help? Or do you want to make changes to your existing appointment?
+Patient: I'd like to speak with a team member for further assistance, please.
+Agent: Please wait.  Hello, you've reached the pretty good. AI test line, goodbye.
+Patient: Thank you, goodbye!

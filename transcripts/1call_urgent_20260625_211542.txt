@@ -1,0 +1,15 @@
+Scenario: urgent
+Goal: I'm not feeling well and need to speak with a nurse
+Time: 20260625_211542
+==================================================
+Patient: Hi, I'm not feeling well and I'd like to speak with a nurse please.
+Agent: Call may be recorded for quality and training purposes.  Thank you for calling Pivot Point Orthopedics. Would you like to create a demo patient profile? I just need your first and last name.
+Patient: My name is Sarah Miller.
+Agent: Your patient profile has been created and your date of birth is July. 4th 2000 for demo purposes. How may I help you today?
+Patient: Yes, that's right.
+Agent: Great. What can I help you with today? Are you looking to schedule an appointment? Ask about medications or something else?
+Patient: I'm not feeling well and I'd like to speak with a nurse please.
+Agent: You already have a case open to speak with a nurse about not feeling. Well the clinic staff will review your request and follow up as soon as possible. Is there anything else I can help you with?
+Patient: No, that's all. Thank you for your help!
+Agent: You're welcome. Take care of Sarah, if you need anything else just call back.
+Patient: Thank you, goodbye!

@@ -1,0 +1,9 @@
+# Architecture
+
+## System Overview
+
+AthenaVoiceQA places outbound calls via Twilio to a target healthcare voice agent and simulates realistic patient conversations. When a call connects, the Athena agent's speech is transcribed by Twilio and forwarded to a Flask webhook. The PatientBot processes each utterance through a two-layer intent pipeline: RapidFuzz first matches common intents such as identity verification, insurance, dates, and phone numbers in under 1ms; if confidence is low, an LLM classifies the intent as a fallback. Structured fields like name and date of birth return deterministic rule-based responses, while open-ended dialogue triggers an LLM to generate a natural reply. A dialogue state machine prevents contextually incorrect responses — for example, "anything else?" only triggers a goodbye after the patient's goal is confirmed complete, not during identity verification. After each call, the full transcript is saved and reviewed to identify conversational failures, which are documented in a structured bug report linked to specific transcript timestamps.
+
+## Key Design Decisions
+
+The core design decision was minimizing LLM calls for predictable exchanges. The initial version routed every agent utterance through Gemini for response generation, which caused frequent timeouts and Twilio's 15-second webhook limit failures. Switching to the hybrid RapidFuzz-first architecture reduced average response latency from 5–8 seconds to under 0.1 seconds for roughly 80% of turns, with LLM calls averaging 1–2 seconds only when needed. The model was also migrated from Gemini to OpenAI GPT-4o-mini mid-project after repeated 503 availability errors, which significantly improved stability. Semantic loop detection using fuzzy similarity scoring identifies when conversation stalls and triggers an LLM call to break the cycle naturally rather than hanging up abruptly.
