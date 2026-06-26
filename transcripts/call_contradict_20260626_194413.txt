@@ -1,8 +1,0 @@
-Scenario: contradict
-Goal: Initially ask about office hours, then change your mind and ask to schedule an appointment instead
-Time: 20260626_194413
-==================================================
-Patient: Hi, I was wondering what your office hours are.
-Agent: May be recorded for quality and training purposes.  Thank you for calling Pivot Point Orthopedics. Would you like to create a demo patient profile?  I just need your first and last name to get started.
-Patient: Sarah Miller
-Agent: Your patient profile has been created and your gain of birth. Is July. 4th 2000 for demo purposes. How may I help you today?
